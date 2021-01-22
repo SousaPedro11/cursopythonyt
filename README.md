@@ -11,6 +11,6 @@ O curso da vez é o [Curso de Python 3 do Básico Ao Avançado (com projetos rea
 
 Obtive o curso no período de lançamento, havia em torno de 20h. Agora são 92h de curso!
 
-Já possuo certa experiência com Python e estou revizando conceitos básicos da linguagem, deixo o repositório como registro.
+Já possuo certa experiência com Python e estou revisando conceitos básicos da linguagem, deixo o repositório como registro.
 
 Farei o máximo de esforço para seguir a risca o curso, incluindo o estilo :grin:.
